@@ -35,7 +35,7 @@ EOD;
 	$adunare = $firstname +  $lastname;
 		
 	echo $content_form;
-	echo '<h4>Rezultate:</h4>';
+	echo '<h4>Rezultate:</h4><h4>Rezultate:</h4>';
 	echo $content2 . '<br>';
 	echo '<h5>Iar adunarea lor este: <h5>' .  $adunare;
 	
