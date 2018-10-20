@@ -8,7 +8,7 @@
 echo "Hello World!";
 echo "Hello First repo, GitHub!";
 echo "New new !";
-echo "New new2 !";
+echo "New new !";
 ?>
 
 </body>
