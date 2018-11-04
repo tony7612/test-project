@@ -11,6 +11,7 @@ echo "New new !";
 echo "New new !";
 ?>
 
+<p>Aici vom veni cu un alt paragraf, din master</p>
 </body>
 </html>
 
