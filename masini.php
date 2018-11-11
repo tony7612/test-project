@@ -39,7 +39,7 @@ EOD;
 	echo $content2 . '<br>';
 	echo '<h5>Iar adunarea lor este: <h5>' .  $adunare;
 	
-	//aplicare discount
+	//aplicare discount la produs
 	if ($adunare < 10) {
 		$discount = 0;
 	} else if (($adunare >= 10) && ($adunare <= 49)   ) {
